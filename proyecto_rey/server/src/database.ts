@@ -6,9 +6,7 @@ const pool = mysql.createPool(keys.database);
 pool.getConnection()
 .then(connection => {
     pool.releaseConnection(connection);
-    console.log('db is connection');
+    console.log('conexion exitosa');
 });
-
-//comentario1111111111111111111111111
 
 export default pool;
