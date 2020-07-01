@@ -9,6 +9,6 @@ pool.getConnection()
     console.log('db is connection');
 });
 
-//comentario
+//comentariovdvdfv
 
 export default pool;
