@@ -9,6 +9,6 @@ pool.getConnection()
     console.log('db is connection');
 });
 
-//comentario
+//comentario1111111111111111111111111
 
 export default pool;
