@@ -1,8 +1,8 @@
 export default {
     database:{
         host: 'localhost',
-        user: 'root',
-        password: '16819254Vik',
+        user: 'bgamas',
+        password: 'bgamas',
         database: 'ng_produc_db'
     }
 }
